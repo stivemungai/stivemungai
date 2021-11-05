@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636109732 source:c:\users\student\3d objects\county library system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
